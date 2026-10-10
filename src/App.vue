@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { watchEffect } from 'vue'
 import { useI18n } from 'vue-i18n'
+import BillingSettings from './components/BillingSettings.vue'
 import UsersTable from './components/UsersTable.vue'
 import { languages } from './i18n'
 
@@ -28,5 +29,6 @@ watchEffect(() => {
   </header>
   <main>
     <UsersTable />
+    <BillingSettings />
   </main>
 </template>

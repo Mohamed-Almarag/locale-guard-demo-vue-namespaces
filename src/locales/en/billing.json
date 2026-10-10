@@ -1,0 +1,12 @@
+{
+  "title": "Billing",
+  "plan": "You are on the {plan} plan",
+  "seats": "no seats | one seat | {count} seats",
+  "renews": "Renews on {date}",
+  "card": {
+    "label": "Payment method",
+    "ending": "Card ending in {last4}"
+  },
+  "invoices": "Invoices",
+  "save": "@:common.actions.save billing details"
+}

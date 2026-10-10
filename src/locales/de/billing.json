@@ -1,0 +1,12 @@
+{
+  "title": "Abrechnung",
+  "plan": "Du nutzt den Tarif {plan}",
+  "seats": "keine Plätze | ein Platz | {count} Plätze",
+  "renews": "Renews on {date}",
+  "card": {
+    "label": "Zahlungsmethode",
+    "ending": "Karte mit Endziffern {last4}"
+  },
+  "invoices": "",
+  "save": "Zahlungsdaten @.lower:common.actions.save"
+}
