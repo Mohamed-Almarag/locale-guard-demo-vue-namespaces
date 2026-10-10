@@ -1,0 +1,7 @@
+{
+  "title": "Audit log",
+  "entry": "{user} changed {field}",
+  "when": "{time} ago",
+  "filter": "Show changes by {user}",
+  "empty": "No changes in the last {days} days"
+}
