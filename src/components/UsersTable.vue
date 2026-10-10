@@ -36,3 +36,21 @@ const users = ref([
     </table>
   </section>
 </template>
+
+<style scoped>
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid #e5e7eb;
+  text-align: start;
+}
+
+tbody tr:hover {
+  background: #f9fafb;
+}
+</style>
