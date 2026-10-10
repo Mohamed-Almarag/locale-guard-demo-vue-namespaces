@@ -1,0 +1,7 @@
+{
+  "title": "Journal d'audit",
+  "entry": "{user} a modifié {field}",
+  "when": "il y a {time}",
+  "filter": "Afficher les modifications de {user}",
+  "empty": "Aucune modification ces {days} derniers jours"
+}
