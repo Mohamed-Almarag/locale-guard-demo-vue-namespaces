@@ -1,0 +1,16 @@
+{
+  "title": "Membres de l'équipe",
+  "count": "aucun membre | un membre | {count} membres",
+  "columns": {
+    "name": "Nom",
+    "email": "E-mail",
+    "role": "Rôle",
+    "status": "Statut"
+  },
+  "roles": {
+    "admin": "Administrateur",
+    "editor": "Éditeur"
+  },
+  "active": "Actif",
+  "disabled": "Désactivé"
+}

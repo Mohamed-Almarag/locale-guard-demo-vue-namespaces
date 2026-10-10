@@ -1,0 +1,13 @@
+{
+  "appName": "Administration",
+  "language": "Langue",
+  "nav": {
+    "users": "Utilisateurs",
+    "orders": "Commandes"
+  },
+  "actions": {
+    "edit": "Modifier",
+    "save": "Enregistrer",
+    "cancel": "Annuler"
+  }
+}

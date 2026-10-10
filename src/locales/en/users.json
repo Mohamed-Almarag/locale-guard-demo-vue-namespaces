@@ -1,0 +1,17 @@
+{
+  "title": "Team members",
+  "count": "no members | one member | {count} members",
+  "columns": {
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "status": "Status"
+  },
+  "roles": {
+    "admin": "Admin",
+    "editor": "Editor",
+    "viewer": "Viewer"
+  },
+  "active": "Active",
+  "disabled": "Disabled"
+}

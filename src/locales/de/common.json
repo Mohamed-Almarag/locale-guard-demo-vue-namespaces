@@ -1,0 +1,14 @@
+{
+  "appName": "Verwaltung",
+  "language": "Sprache",
+  "nav": {
+    "users": "Benutzer",
+    "orders": "Bestellungen"
+  },
+  "actions": {
+    "edit": "Bearbeiten",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "archive": "Archivieren"
+  }
+}

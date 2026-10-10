@@ -1,0 +1,13 @@
+{
+  "appName": "Admin",
+  "language": "Language",
+  "nav": {
+    "users": "Users",
+    "orders": "Orders"
+  },
+  "actions": {
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
