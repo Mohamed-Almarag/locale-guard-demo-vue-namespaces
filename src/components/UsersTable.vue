@@ -11,6 +11,7 @@ const users = ref([
 <template>
   <section id="users">
     <h1>{{ $t('users.title') }}</h1>
+    <button type="button">{{ $t('users.invite', { email: 'new@example.com' }) }}</button>
     <p>{{ $t('users.count', { count: users.length }, users.length) }}</p>
     <table>
       <thead>
