@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { watchEffect } from 'vue'
 import { useI18n } from 'vue-i18n'
+import AuditLog from './components/AuditLog.vue'
 import UsersTable from './components/UsersTable.vue'
 import { languages } from './i18n'
 
@@ -28,5 +29,6 @@ watchEffect(() => {
   </header>
   <main>
     <UsersTable />
+    <AuditLog />
   </main>
 </template>

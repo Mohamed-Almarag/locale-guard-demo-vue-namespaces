@@ -1,0 +1,7 @@
+{
+  "title": "Änderungsprotokoll",
+  "entry": "{user} hat {field} geändert",
+  "when": "vor {time}",
+  "filter": "Änderungen von {user} anzeigen",
+  "empty": "Keine Änderungen in den letzten {days} Tagen"
+}
