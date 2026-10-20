@@ -12,5 +12,6 @@
     "editor": "Éditeur"
   },
   "active": "Actif",
-  "disabled": "Désactivé"
+  "disabled": "Désactivé",
+  "invite": "Inviter {email}"
 }

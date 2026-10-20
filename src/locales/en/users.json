@@ -13,5 +13,6 @@
     "viewer": "Viewer"
   },
   "active": "Active",
-  "disabled": "Disabled"
+  "disabled": "Disabled",
+  "invite": "Invite {email}"
 }
